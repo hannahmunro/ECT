@@ -1,0 +1,27 @@
+---
+title: "Clark-Munro virutal run/walk of East Coast Trail"
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+---
+
+```{r]
+```
+## Overview
+
+```{r}
+#load data
+
+#goal distances
+```
+
+This is an update of our progress as we try and run and walk the equivelent distance of the East Coast Trail which runs from Topsail to Cappahadyen in Newfoundland. The total distance is XXX and the total elevation is xxx.
+
+Enter your runs and walks at XXXXX.
+
+The most recent activity included in this update is XXXX
+
+## How far have we gone
+```{r}
+```
